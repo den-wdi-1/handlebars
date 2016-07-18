@@ -223,3 +223,7 @@ You will refine the skills covered in this workshop in the labs this afternoon.
 ## Additional Resources
 - [Handlebars.js](http://handlebarsjs.com)
 - FYI Handlebars is actually built **on top of** another simpler templating engine, called [Mustache.js](https://github.com/janl/mustache.js).
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
